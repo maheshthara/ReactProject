@@ -1,0 +1,40 @@
+.student {
+  font-family: Arial, sans-serif;
+  font-size: 2em;
+  padding: 2% 2% 2% 2%;
+  border: 1px solid hsla(0, 83%, 2%, 0.8);
+}
+
+.welcome-message {
+  background-color: green;
+  padding: 4%;
+  font-size: 4em;
+  size: 80px;
+  align-content: center;
+  color: aliceblue;
+
+}
+
+.login-prompt {
+  background-color: red;
+  padding: 4%;
+  font-size: 4em;
+  size: 80px;
+  align-content: center;
+  color: aliceblue;
+}
+.list-items{
+color:black;
+text-align:center;
+padding: 2px;
+font-size: 2em;
+}
+.item-category{
+  color: black;
+  font-size: 3em;
+  padding: 1%;
+  text-align: center;
+  background-color: aqua;
+  border: 3px solid;
+  border-radius: 20px;
+}
